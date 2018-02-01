@@ -10,6 +10,7 @@ import Foundation
 
 class User{
     
+    ////
     static var object = User()
     
     var UEmail:String = ""
